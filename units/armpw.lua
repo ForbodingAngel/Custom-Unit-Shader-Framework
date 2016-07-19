@@ -17,7 +17,7 @@ unitDef = {
   canPatrol           = true,
   canstop             = "1",
   category            = "MOBILE SINK",
-  corpse              = "DEAD",
+  --corpse              = "DEAD",
 
   customParams        = {
     helptext = "The Glaive is a light, cheap raider kbot. Though you can build it in the dozens, it dies just as fast, and is rarely of much use versus serious opposition. Counter with riot units or LLTs.",
