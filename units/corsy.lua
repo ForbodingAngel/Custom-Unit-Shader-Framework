@@ -31,7 +31,7 @@ unitDef = {
   collisionVolumeScales  = [[60 60 260]],
   collisionVolumeTest    = 1,
   collisionVolumeType    = [[CylZ]],
-  corpse                 = [[DEAD]],
+  --corpse                 = [[DEAD]],
 
   customParams           = {
     sortName = [[7]],
