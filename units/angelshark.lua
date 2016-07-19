@@ -13,7 +13,7 @@ unitDef = {
   canreclamate        = "1",
   canstop             = "1",
   category            = "UNARMED MOBILE SINK",
-  corpse              = "DEAD",
+  --corpse              = "DEAD",
 
   customParams        = {
     helptext = "The underwater counterpart to the shipcon, the subcon slips beneath radar coverage to do its work unseen by surface units, except those with sonar capability.",
