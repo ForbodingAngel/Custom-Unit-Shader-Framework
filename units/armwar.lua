@@ -16,7 +16,7 @@ unitDef = {
   canPatrol           = true,
   canstop             = "1",
   category            = "MOBILE SINK",
-  corpse              = "DEAD",
+  --corpse              = "DEAD",
 
   customParams        = {
     helptext = "The Warrior is a riot kbot. Its devastating heavy Energy Machine Gun is effective vs most enemy units, in particular raiders. It performs poorly versus static defense, so do not use it as an assault unit. Counter by staying out of their range, as they are slow.",
